@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316727667727",
+    "project_id": "undercontrolled-f1948",
+    "storage_bucket": "undercontrolled-f1948.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316727667727:android:1ef8b51ea176350527477a",
+        "android_client_info": {
+          "package_name": "com.example.under_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZYb8Y_tWtZDDS2CwrhJy1Cx1lmD173Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

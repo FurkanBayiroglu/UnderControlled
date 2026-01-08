@@ -1,0 +1,235 @@
+{
+  "app": {
+    "name": "UnderControlled",
+    "loading": "Connecting...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "search": "Search",
+    "settings": "Settings",
+    "coming_soon": "Coming Soon"
+  },
+  
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "login_success": "Login successful!",
+    "register_success": "Registration successful!",
+    "logout_confirm": "Are you sure you want to logout?"
+  },
+  
+  "nav": {
+    "home": "Home",
+    "messages": "Messages",
+    "profile": "Profile",
+    "events": "Events",
+    "explore": "Explore"
+  },
+  
+  "home": {
+    "hello": "Hello! 👋",
+    "user": "User",
+    "quick_access": "Quick Access",
+    "my_rooms": "My Rooms",
+    "explore": "Explore",
+    "friends": "Friends",
+    "popular_rooms": "Popular Rooms 🔥",
+    "see_all": "See All",
+    "no_active_rooms": "No active rooms yet.\nBe the first to create one! 🚀",
+    "people_joined": "{count} people joined",
+    "ai_assistant": "AI Assistant",
+    "ai_new": "✨ NEW",
+    "ai_description": "Don't know what to do? Get personalized recommendations!"
+  },
+  
+  "rooms": {
+    "title": "Events",
+    "subtitle": "Meet new people, have fun! 🎉",
+    "categories": "Categories",
+    "create_room": "Create Room",
+    "join": "Join",
+    "leave": "Leave",
+    "joined": "Joined",
+    "full": "Full",
+    "open": "Open",
+    "no_rooms": "No rooms in this category",
+    "no_rooms_at_all": "No active rooms yet",
+    "be_first": "Be the first to create one! 🚀",
+    "room_name": "Room Name",
+    "room_description": "Description",
+    "max_participants": "Max Participants",
+    "category": "Category",
+    "private_room": "Private Room",
+    "create": "Create",
+    "created_success": "Room created successfully!",
+    "joined_success": "You joined {name}!",
+    "left_success": "You left the room",
+    "already_joined": "You're already in this room!",
+    "room_full": "Room is full!",
+    "participants": "{current}/{max}",
+    "send_message": "Write a message..."
+  },
+  
+  "room_categories": {
+    "all": "All",
+    "sports": "Sports",
+    "fitness": "Fitness",
+    "yoga": "Yoga",
+    "gaming": "Gaming",
+    "esports": "E-Sports",
+    "board_games": "Board Games",
+    "music": "Music",
+    "art": "Art",
+    "photography": "Photography",
+    "dance": "Dance",
+    "study": "Study",
+    "language": "Language",
+    "coding": "Coding",
+    "reading": "Reading",
+    "chat": "Chat",
+    "debate": "Debate",
+    "movie": "Movie",
+    "anime": "Anime",
+    "food": "Food",
+    "cooking": "Cooking",
+    "coffee": "Coffee",
+    "travel": "Travel",
+    "outdoor": "Outdoor",
+    "tech": "Tech",
+    "crypto": "Crypto",
+    "pets": "Pets",
+    "cars": "Cars",
+    "fashion": "Fashion"
+  },
+  
+  "chat": {
+    "title": "Messages",
+    "conversations": "Chats",
+    "contacts": "Contacts",
+    "no_conversations": "No conversations yet",
+    "start_from_contacts": "Start a chat from Contacts tab",
+    "go_to_contacts": "Go to Contacts",
+    "no_contacts": "You're not following anyone yet",
+    "find_people": "Find people and follow them!",
+    "no_messages": "No messages yet",
+    "write_message": "Write a message...",
+    "now": "Now",
+    "user_data_error": "Failed to load user data"
+  },
+  
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "followers": "Followers",
+    "following": "Following",
+    "dark_mode": "Dark Mode",
+    "dark_mode_on": "On",
+    "dark_mode_off": "Off",
+    "follow_requests": "Follow Requests",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "language": "Language",
+    "name": "Full Name",
+    "username": "Username",
+    "bio": "Bio",
+    "private_account": "Private Account",
+    "private_account_desc": "Approve follow requests",
+    "saved": "Profile updated!",
+    "unnamed": "Unnamed User"
+  },
+  
+  "follow": {
+    "follow": "Follow",
+    "following": "Following",
+    "unfollow": "Unfollow",
+    "request_sent": "Request Sent",
+    "requests": "Follow Requests",
+    "no_requests": "No follow requests",
+    "accept": "Accept",
+    "reject": "Reject",
+    "followed": "Followed",
+    "unfollowed": "Unfollowed"
+  },
+  
+  "search": {
+    "title": "Search Users",
+    "hint": "Search by username or name...",
+    "no_results": "No results found",
+    "type_to_search": "Type a username to search"
+  },
+  
+  "ai": {
+    "title": "Smart Assistant",
+    "subtitle": "Personalized recommendations",
+    "restart": "Restart",
+    "use_options": "Reply using the options",
+    "recommendations": "🎯 My Recommendations for You:",
+    "go_to_rooms": "🚪 Go to Recommended Rooms",
+    "get_more": "🔄 Get More Recommendations",
+    "browse_all": "🔍 Browse All Rooms",
+    "save_preferences": "💾 Save My Preferences",
+    "preferences_saved": "✅ Your preferences have been saved!",
+    
+    "mood_question": "How are you feeling right now? 🤔",
+    "time_question": "How much time can you spare? ⏰",
+    "group_question": "How many people do you want to hang out with? 👥",
+    "activity_question": "What type of activity interests you? 🎯",
+    "intensity_question": "What pace do you prefer? 🎚️",
+    
+    "mood_energetic": "⚡ Energetic & Active",
+    "mood_calm": "🧘 Calm & Peaceful",
+    "mood_social": "🎉 Social & Fun",
+    "mood_focused": "🎯 Focused & Productive",
+    "mood_tired": "🌙 Tired but Want to Have Fun",
+    
+    "time_short": "⏰ 30 minutes",
+    "time_medium": "🕐 1-2 hours",
+    "time_long": "🕔 2-4 hours",
+    "time_unlimited": "🌟 No time limit",
+    
+    "group_alone": "🧘 Relaxing alone",
+    "group_intimate": "👫 With 1-2 close friends",
+    "group_small": "👥 Group of 3-5 people",
+    "group_medium": "🎊 6-10 people",
+    "group_large": "🎉 Large group (10+)",
+    
+    "activity_physical": "🏃 Physical Activity",
+    "activity_creative": "🎨 Creative Work",
+    "activity_mental": "🧠 Mind Games",
+    "activity_entertainment": "🎮 Games & Entertainment",
+    "activity_cultural": "🎭 Cultural Activities",
+    "activity_food": "🍕 Food & Social",
+    
+    "intensity_high": "🔥 High Intensity",
+    "intensity_medium": "⚖️ Medium Pace",
+    "intensity_low": "🍃 Slow & Relaxed"
+  },
+  
+  "time": {
+    "days_ago": "{count}d",
+    "hours_ago": "{count}h",
+    "minutes_ago": "{count}m",
+    "just_now": "Now"
+  },
+  
+  "errors": {
+    "generic": "An error occurred",
+    "network": "No internet connection",
+    "try_again": "Please try again",
+    "loading_failed": "Loading failed"
+  }
+}
