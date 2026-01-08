@@ -1,0 +1,235 @@
+{
+  "app": {
+    "name": "UnderControlled",
+    "loading": "Bağlanıyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "close": "Kapat",
+    "confirm": "Onayla",
+    "yes": "Evet",
+    "no": "Hayır",
+    "ok": "Tamam",
+    "search": "Ara",
+    "settings": "Ayarlar",
+    "coming_soon": "Yakında"
+  },
+  
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "forgot_password": "Şifremi Unuttum",
+    "no_account": "Hesabın yok mu?",
+    "have_account": "Zaten hesabın var mı?",
+    "login_success": "Giriş başarılı!",
+    "register_success": "Kayıt başarılı!",
+    "logout_confirm": "Çıkış yapmak istediğinize emin misiniz?"
+  },
+  
+  "nav": {
+    "home": "Ana Sayfa",
+    "messages": "Mesajlar",
+    "profile": "Profil",
+    "events": "Etkinlikler",
+    "explore": "Keşfet"
+  },
+  
+  "home": {
+    "hello": "Merhaba! 👋",
+    "user": "Kullanıcı",
+    "quick_access": "Hızlı Erişim",
+    "my_rooms": "Odalarım",
+    "explore": "Keşfet",
+    "friends": "Arkadaşlar",
+    "popular_rooms": "Popüler Odalar 🔥",
+    "see_all": "Tümünü Gör",
+    "no_active_rooms": "Henüz aktif oda yok.\nİlk odayı sen oluştur! 🚀",
+    "people_joined": "{count} kişi katıldı",
+    "ai_assistant": "AI Asistan",
+    "ai_new": "✨ YENİ",
+    "ai_description": "Ne yapacağını bilmiyor musun? Sana özel öneriler al!"
+  },
+  
+  "rooms": {
+    "title": "Etkinlikler",
+    "subtitle": "Yeni insanlarla tanış, eğlen! 🎉",
+    "categories": "Kategoriler",
+    "create_room": "Oda Oluştur",
+    "join": "Katıl",
+    "leave": "Ayrıl",
+    "joined": "Katıldın",
+    "full": "Dolu",
+    "open": "Açık",
+    "no_rooms": "Bu kategoride oda yok",
+    "no_rooms_at_all": "Henüz aktif oda yok",
+    "be_first": "İlk odayı sen oluştur! 🚀",
+    "room_name": "Oda Adı",
+    "room_description": "Açıklama",
+    "max_participants": "Maksimum Katılımcı",
+    "category": "Kategori",
+    "private_room": "Gizli Oda",
+    "create": "Oluştur",
+    "created_success": "Oda başarıyla oluşturuldu!",
+    "joined_success": "{name} odasına katıldınız!",
+    "left_success": "Odadan ayrıldınız",
+    "already_joined": "Zaten bu odasınız!",
+    "room_full": "Oda dolu!",
+    "participants": "{current}/{max}",
+    "send_message": "Mesaj yaz..."
+  },
+  
+  "room_categories": {
+    "all": "Tümü",
+    "sports": "Spor",
+    "fitness": "Fitness",
+    "yoga": "Yoga",
+    "gaming": "Oyun",
+    "esports": "E-Spor",
+    "board_games": "Masa Oyunu",
+    "music": "Müzik",
+    "art": "Sanat",
+    "photography": "Fotoğraf",
+    "dance": "Dans",
+    "study": "Çalışma",
+    "language": "Dil",
+    "coding": "Kodlama",
+    "reading": "Kitap",
+    "chat": "Sohbet",
+    "debate": "Tartışma",
+    "movie": "Film",
+    "anime": "Anime",
+    "food": "Yemek",
+    "cooking": "Yemek Yapma",
+    "coffee": "Kahve",
+    "travel": "Seyahat",
+    "outdoor": "Outdoor",
+    "tech": "Teknoloji",
+    "crypto": "Kripto",
+    "pets": "Evcil Hayvan",
+    "cars": "Otomobil",
+    "fashion": "Moda"
+  },
+  
+  "chat": {
+    "title": "Mesajlar",
+    "conversations": "Sohbetler",
+    "contacts": "Kişiler",
+    "no_conversations": "Henüz sohbetin yok",
+    "start_from_contacts": "Kişiler sekmesinden sohbet başlat",
+    "go_to_contacts": "Kişilere Git",
+    "no_contacts": "Henüz kimseyi takip etmiyorsun",
+    "find_people": "Kişileri bul ve takip et!",
+    "no_messages": "Henüz mesaj yok",
+    "write_message": "Mesaj yaz...",
+    "now": "Şimdi",
+    "user_data_error": "Kullanıcı verisi yüklenemedi"
+  },
+  
+  "profile": {
+    "title": "Profil",
+    "edit": "Profili Düzenle",
+    "followers": "Takipçi",
+    "following": "Takip",
+    "dark_mode": "Karanlık Mod",
+    "dark_mode_on": "Açık",
+    "dark_mode_off": "Kapalı",
+    "follow_requests": "Takip İstekleri",
+    "notifications": "Bildirimler",
+    "privacy": "Gizlilik",
+    "language": "Dil",
+    "name": "Ad Soyad",
+    "username": "Kullanıcı Adı",
+    "bio": "Biyografi",
+    "private_account": "Gizli Hesap",
+    "private_account_desc": "Takip isteklerini onayla",
+    "saved": "Profil güncellendi!",
+    "unnamed": "İsimsiz Kullanıcı"
+  },
+  
+  "follow": {
+    "follow": "Takip Et",
+    "following": "Takip Ediliyor",
+    "unfollow": "Takibi Bırak",
+    "request_sent": "İstek Gönderildi",
+    "requests": "Takip İstekleri",
+    "no_requests": "Takip isteği yok",
+    "accept": "Kabul Et",
+    "reject": "Reddet",
+    "followed": "Takip edildi",
+    "unfollowed": "Takipten çıkıldı"
+  },
+  
+  "search": {
+    "title": "Kullanıcı Ara",
+    "hint": "Kullanıcı adı veya isim ara...",
+    "no_results": "Sonuç bulunamadı",
+    "type_to_search": "Aramak için kullanıcı adı yazın"
+  },
+  
+  "ai": {
+    "title": "Akıllı Asistan",
+    "subtitle": "Sana özel öneriler",
+    "restart": "Yeniden Başlat",
+    "use_options": "Seçenekleri kullanarak cevap ver",
+    "recommendations": "🎯 Sana Özel Önerilerim:",
+    "go_to_rooms": "🚪 Önerilen Odalara Git",
+    "get_more": "🔄 Başka Öneri İste",
+    "browse_all": "🔍 Tüm Odaları Gör",
+    "save_preferences": "💾 Tercihlerimi Kaydet",
+    "preferences_saved": "✅ Tercihleriniz kaydedildi!",
+    
+    "mood_question": "Şu an nasıl hissediyorsun? 🤔",
+    "time_question": "Ne kadar vaktini ayırabilirsin? ⏰",
+    "group_question": "Kaç kişi ile vakit geçirmek istersin? 👥",
+    "activity_question": "Hangi tür aktivite seni cezbeder? 🎯",
+    "intensity_question": "Aktivitenin temposu nasıl olsun? 🎚️",
+    
+    "mood_energetic": "⚡ Enerjik ve Hareketli",
+    "mood_calm": "🧘 Sakin ve Huzurlu",
+    "mood_social": "🎉 Sosyal ve Eğlenceli",
+    "mood_focused": "🎯 Odaklanmış ve Üretken",
+    "mood_tired": "🌙 Yorgun ama Eğlenmek İsteyen",
+    
+    "time_short": "⏰ 30 dakika",
+    "time_medium": "🕐 1-2 saat",
+    "time_long": "🕔 2-4 saat",
+    "time_unlimited": "🌟 Zaman sınırım yok",
+    
+    "group_alone": "🧘 Tek başıma rahatlamak",
+    "group_intimate": "👫 1-2 yakın arkadaşımla",
+    "group_small": "👥 3-5 kişilik grup",
+    "group_medium": "🎊 6-10 kişi",
+    "group_large": "🎉 Büyük topluluk (10+)",
+    
+    "activity_physical": "🏃 Fiziksel Aktivite",
+    "activity_creative": "🎨 Yaratıcı İşler",
+    "activity_mental": "🧠 Zihinsel Oyunlar",
+    "activity_entertainment": "🎮 Oyun ve Eğlence",
+    "activity_cultural": "🎭 Kültürel Aktiviteler",
+    "activity_food": "🍕 Yeme-İçme Sosyalleşme",
+    
+    "intensity_high": "🔥 Yüksek Tempo",
+    "intensity_medium": "⚖️ Orta Tempo",
+    "intensity_low": "🍃 Yavaş ve Rahat"
+  },
+  
+  "time": {
+    "days_ago": "{count}g",
+    "hours_ago": "{count}s",
+    "minutes_ago": "{count}d",
+    "just_now": "Şimdi"
+  },
+  
+  "errors": {
+    "generic": "Bir hata oluştu",
+    "network": "İnternet bağlantısı yok",
+    "try_again": "Tekrar deneyin",
+    "loading_failed": "Yükleme başarısız"
+  }
+}
